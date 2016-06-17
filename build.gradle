@@ -1,0 +1,25 @@
+buildscript {
+  repositories {
+	mavenCentral()
+  }
+}
+
+repositories {
+  maven {
+	url = "http://first.wpi.edu/FRC/roborio/maven/release"
+  }
+  mavenCentral()
+}
+
+apply plugin: 'java'
+apply plugin: 'eclipse'
+apply plugin: 'application'
+
+mainClassName = "org.usfirst.frc2084.CMonster2016.vision.VisionTest"
+
+dependencies {
+  compile project(':VisionProcessor2016')
+  compile 'edu.wpi.first.wpilib.networktables.java:NetworkTables:3.+:desktop'
+  compile 'com.miglayout:miglayout-swing:4.+'
+
+}

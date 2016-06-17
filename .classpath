@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src/main/java"/>
+	<classpathentry kind="con" path="org.springsource.ide.eclipse.gradle.classpathcontainer" exported="true"/>
+	<classpathentry kind="output" path="bin"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8/"/>
+	<classpathentry kind="src" path="/VisionProcessor2016"/>
+	<classpathentry sourcepath="/home/ben/.gradle/caches/modules-2/files-2.1/edu.wpi.first.wpilib.networktables.java/NetworkTables/3.0.0-SNAPSHOT/5ec7993dd6491da24c528c1ef864a5cd7b64dace/NetworkTables-3.0.0-SNAPSHOT-sources.jar" kind="lib" path="/home/ben/.gradle/caches/modules-2/files-2.1/edu.wpi.first.wpilib.networktables.java/NetworkTables/3.0.0-SNAPSHOT/f58f03ec93979596fa034cecdff2a09d46c1d511/NetworkTables-3.0.0-SNAPSHOT-desktop.jar"/>
+	<classpathentry sourcepath="/home/ben/.gradle/caches/modules-2/files-2.1/com.miglayout/miglayout-swing/4.2/3d0273d83f46f87a2b0adc76ff13cd550da6e463/miglayout-swing-4.2-sources.jar" kind="lib" path="/home/ben/.gradle/caches/modules-2/files-2.1/com.miglayout/miglayout-swing/4.2/ca85067488e79a2078ba4eb8e2617653e9172388/miglayout-swing-4.2.jar"/>
+	<classpathentry sourcepath="/home/ben/.gradle/caches/modules-2/files-2.1/com.miglayout/miglayout-core/4.2/4e5b8b17d6c2921d400faa89d33b769adeb222a4/miglayout-core-4.2-sources.jar" kind="lib" path="/home/ben/.gradle/caches/modules-2/files-2.1/com.miglayout/miglayout-core/4.2/70f2bfa2a077ee1632cc8229deffa1d942825c78/miglayout-core-4.2.jar"/>
+	<classpathentry kind="lib" path="/home/ben/Dropbox/Robotics/Code/2016/FRC/VisionProcessor2016/lib/opencv-310.jar"/>
+</classpath>
